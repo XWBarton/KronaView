@@ -11,4 +11,4 @@ echo "Krona file name (don't add file type):"
 
 # generate krona file
 
-ktImportTaxonomy -o ~/KronaView/$SAMPLE.html -t 3 -s 4 $REPORT
+ktImportTaxonomy -k -o ~/KronaView/$SAMPLE.html -t 3 -s 4 $REPORT

@@ -39,7 +39,7 @@
 	<table style="width:90%">
   		
 		<tr>
-   			<th style="width:100px">Data</th>
+   			<th>style="height:100px;width:100px"Data</th>
    			<th>Kraken2 Database</th>
 			<th>Source</th>
 			<th>Notes</th>
@@ -47,7 +47,7 @@
  		</tr>
  		
 		<tr>
-   			<td style="width:100px">!Ixodes holocyclus - Lane 1</td>
+   			<td>Ixodes holocyclus - Lane 1</td>
     			<td>tick-db</td>
   		  	<td>AGRF</td>
 			<td>trimmed with fastp</td>
@@ -57,36 +57,13 @@
 		
 
 		<tr>
-                        <td>!Rhipicephalus linnaei</td>
+                        <td>Rhipicephalus linnaei</td>
                         <td>tick-db</td>
                         <td>NCBI - SRR13348027</td>
 			<td>trimmed with fastp</td>
                         <td><a href="/KronaView/current-charts/4_r.linnaei_trim_tick-db.html">CHART</a></td>
                 </tr>	
 
-		<tr>
-                        <td>Rhipicephalus app</td>
-                        <td>tick-db</td>
-                        <td>NCBI - _</td>
-                        <td>trimmed with fastp</td>
-                        <td><a href="_">CHART</a></td>
-                </tr>
-
-		<tr>
-                        <td>D. var</td>
-                        <td>tick-db</td>
-                        <td>NCBI - _</td>
-                        <td>trimmed with fastp</td>
-                        <td><a href="">CHART</a></td>
-                </tr>
-
-		<tr>
-                        <td>Tick Virome</td>
-                        <td>tick-db</td>
-                        <td>NCBI - _</td>
-                        <td>trimmed with fastp</td>
-                        <td><a href="">CHART</a></td>
-                </tr>
 
 
 	</table>
